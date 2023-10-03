@@ -1,6 +1,8 @@
 # Roman Fisherman VR Experience
 
-Part of a university module titled Mixed Reality. This is a Human-Computer Interaction / user experience report of a prototype of a VR mini-game. Design decisions and reflection based on academic Human-Computer Interaction research.
+Part of a university module titled Mixed Reality. This is a Human-Computer Interaction / user experience focused project, designing and prototyping a VR mini-game. Design decisions and reflection based on academic Human-Computer Interaction research.
+
+Design report shows more detailed technical documentation, participant feedback and analysis on the design.
 
 The player experiences sensory misalignment, simulating the feeling of being on a boat. The player will feel like their body is toppling over when they move or lean towards the edge of the boat.
 
